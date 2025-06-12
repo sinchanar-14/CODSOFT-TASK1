@@ -75,4 +75,4 @@ While the current version of the To-Do List Application is functional and user-f
 
 The To-Do List Application is a practical tool for anyone looking to improve their task management skills. With its simple interface and essential features, it serves as a great starting point for users to organize their daily activities effectively. Whether you are a student, a professional, or anyone in between, this application can help you stay on top of your tasks and boost your productivity.
 
-*OUTPUT*: 
+*OUTPUT*: <img width="632" alt="Image" src="https://github.com/user-attachments/assets/9e4963b5-41af-4edd-a15f-5f742f12d12c" />
